@@ -11,6 +11,7 @@ Below you will find links to publications, as well as their respective replicati
   *Zalán Lévai, Donghwan Shin, Phil McMinn*<br>
   ACM Transactions on Software Engineering and Methodology, Just Accepted, 2026<br>
   [[DOI 10.1145/3787851](https://doi.org/10.1145/3787851)]
+  [[PDF](publications/mutation-batching-article/levai-batching-2026.pdf)]
   [[REP-PAK](#mutation-batching-article-rep-pak)]
 
 * <a name="mutation-batching-paper"></a>
@@ -18,6 +19,7 @@ Below you will find links to publications, as well as their respective replicati
   *Zalán Lévai, Phil McMinn*<br>
   International Conference on Software Testing (ICST), 2023<br>
   [[DOI 10.1109/ICST57152.2023.00014](https://doi.org/10.1109/ICST57152.2023.00014)]
+  [[PDF](publications/mutation-batching-paper/levai-batching-2023.pdf)]
   [[REP-PAK](#mutation-batching-paper-rep-pak)]
 
 ## Replication Packages
