@@ -9,7 +9,8 @@ Below you will find links to publications, as well as their respective replicati
 * <a name="mutation-batching-article"></a>
   **A Comprehensive Empirical and Theoretical Analysis of Batching Algorithms for Efficient, Safe, Parallel Mutation Analysis in Rust**<br>
   *Zalán Lévai, Donghwan Shin, Phil McMinn*<br>
-  ACM Transactions on Software Engineering and Methodology<br>
+  ACM Transactions on Software Engineering and Methodology, Just Accepted, 2026<br>
+  [[DOI 10.1145/3787851](https://doi.org/10.1145/3787851)]
   [[REP-PAK](#mutation-batching-article-rep-pak)]
 
 * <a name="mutation-batching-paper"></a>
