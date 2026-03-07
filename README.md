@@ -6,6 +6,13 @@ Below you will find links to publications, as well as their respective replicati
 
 ## Publications
 
+* <a name="dynamic-mutation-scheduling-paper"></a>
+  **Dynamic Mutation Scheduling: Highly Parallel, Efficient Evaluation of Mutations for Rust Programs through Program Splitting**<br>
+  *Zalán Lévai, Donghwan Shin, Phil McMinn*<br>
+  International Conference on Software Testing (ICST), 2026<br>
+  [[PDF](publications/dynamic-mutation-scheduling-paper/levai-scheduling-2026.pdf)]
+  [[REP-PAK](#dynamic-mutation-scheduling-paper-rep-pak)]
+
 * <a name="mutation-batching-article"></a>
   **A Comprehensive Empirical and Theoretical Analysis of Batching Algorithms for Efficient, Safe, Parallel Mutation Analysis in Rust**<br>
   *Zalán Lévai, Donghwan Shin, Phil McMinn*<br>
@@ -23,6 +30,12 @@ Below you will find links to publications, as well as their respective replicati
   [[REP-PAK](#mutation-batching-paper-rep-pak)]
 
 ## Replication Packages
+
+* <a name="dynamic-mutation-scheduling-paper-rep-pak"></a>
+  **Dynamic Mutation Scheduling: Highly Parallel, Efficient Evaluation of Mutations for Rust Programs through Program Splitting**<br>
+  *Zalán Lévai, Donghwan Shin, Phil McMinn*<br>
+
+  > Available at https://zenodo.org/records/18893406.
 
 * <a name="mutation-batching-article-rep-pak"></a>
   **A Comprehensive Empirical and Theoretical Analysis of Batching Algorithms for Efficient, Safe, Parallel Mutation Analysis in Rust**<br>
