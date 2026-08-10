@@ -6,6 +6,13 @@ Below you will find links to publications, as well as their respective replicati
 
 ## Publications
 
+* <a name="marv-tool-paper"></a>
+  **Marv: An Interactive Tool for Visualising and Reviewing the Results of Mutation Analysis**<br>
+  *Daniel Wells, Zalán Lévai, Phil McMinn*<br>
+  International Conference on Automated Software Engineering (ASE), 2026 (Munich, Germany)<br>
+  [[DOI 10.1145/3832783.3834643](https://doi.org/10.1145/3832783.3834643)]
+  [[PDF](publications/marv-tool-paper/wells-marv-2026.pdf)]
+
 * <a name="mutest-rs-tool-paper"></a>
   **mutest-rs: Flexible, Efficient Mutation Analysis Tool for Rust Programs, using Extensive Static Analysis**<br>
   *Zalán Lévai, Donghwan Shin, Phil McMinn*<br>
