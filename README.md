@@ -10,12 +10,14 @@ Below you will find links to publications, as well as their respective replicati
   **mutest-rs: Flexible, Efficient Mutation Analysis Tool for Rust Programs, using Extensive Static Analysis**<br>
   *Zalán Lévai, Donghwan Shin, Phil McMinn*<br>
   International Conference on Software Testing (ICST), 2026<br>
+  [[DOI 10.1109/ICST69053.2026.00038](https://doi.org/10.1109/ICST69053.2026.00038)]
   [[PDF](publications/mutest-rs-tool-paper/levai-mutest-2026.pdf)]
 
 * <a name="dynamic-mutation-scheduling-paper"></a>
   **Dynamic Mutation Scheduling: Highly Parallel, Efficient Evaluation of Mutations for Rust Programs through Program Splitting**<br>
   *Zalán Lévai, Donghwan Shin, Phil McMinn*<br>
   International Conference on Software Testing (ICST), 2026<br>
+  [[DOI 10.1109/ICST69053.2026.00029](https://doi.org/10.1109/ICST69053.2026.00029)]
   [[PDF](publications/dynamic-mutation-scheduling-paper/levai-scheduling-2026.pdf)]
   [[REP-PAK](#dynamic-mutation-scheduling-paper-rep-pak)]
 
